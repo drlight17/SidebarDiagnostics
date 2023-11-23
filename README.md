@@ -1,7 +1,7 @@
 # SidebarDiagnostics 3.5.0
 This is repo with fixed standalone version of https://github.com/ArcadeRenegade/SidebarDiagnostics
 
-Newer versions are all flickering. As I don't have a time to search, fix and recompile the newest current version (3.6.3) I've just created this repo with the standalone latest non-flickering [original compiled version 3.5.0](https://github.com/ArcadeRenegade/SidebarDiagnostics/releases/tag/3.5.0). Get it [here](https://github.com/drlight17/SidebarDiagnostics/releases/latest).
+Newer versions are all flickering. As I don't have a time to search, fix and recompile the newest current version (3.6.3) I've just created this repo with the standalone latest non-flickering [official original compiled version 3.5.0](https://github.com/ArcadeRenegade/SidebarDiagnostics/releases/tag/3.5.0). Get it [here](https://github.com/drlight17/SidebarDiagnostics/releases/latest).
 
 # What is fixed:
 - support of new AMD GPUs monitoring (with [Open Hardware Monitor](https://github.com/openhardwaremonitor/openhardwaremonitor) 0.9.6 dll)
