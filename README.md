@@ -6,6 +6,8 @@ Newer versions are all flickering. As I don't have a time to search, fix and rec
 # What is fixed:
 - support of new AMD GPUs monitoring (with [Open Hardware Monitor](https://github.com/openhardwaremonitor/openhardwaremonitor) 0.9.6 dll)
 - constant flickering if "Reserve Space" is turned on (see related issues from the main repo of the project: https://github.com/ArcadeRenegade/SidebarDiagnostics/issues/375, https://github.com/ArcadeRenegade/SidebarDiagnostics/issues/228, https://github.com/ArcadeRenegade/SidebarDiagnostics/issues/399)
+- added the latest language files from the newest current version (3.6.3)
 
-### No need to install. Just unpack and run. When update error appears click Ok. Saved settings will be in %LOCALAPPDATA%\SidebarDiagnostics\settings.json.
-## Don't update until all above fixes will be in the [latest official release](https://github.com/ArcadeRenegade/SidebarDiagnostics/releases/latest)!
+#### No need to install. Just unpack and run. When update error appears click Ok. Saved settings will be in %LOCALAPPDATA%\SidebarDiagnostics\settings.json.
+#### I've made it for myself but seeing many people complaining I've decided to make this repo public.
+#### Don't update until all above fixes will be in the [latest official release](https://github.com/ArcadeRenegade/SidebarDiagnostics/releases/latest)!
