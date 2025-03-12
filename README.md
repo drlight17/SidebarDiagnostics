@@ -1,3 +1,4 @@
+# Archived as there is a [fixed fork](https://github.com/thewriteway/SidebarDiagnostics).
 # SidebarDiagnostics 3.5.0
 This is repo with fixed standalone version of https://github.com/ArcadeRenegade/SidebarDiagnostics
 
